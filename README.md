@@ -1,4 +1,4 @@
-# AgenticAI
+# AgenticAILearning
 This repo is for learning Agnetic AI. 
 
 ### 1. Install Visual Studio Code and Anaconda
