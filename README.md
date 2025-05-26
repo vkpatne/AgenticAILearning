@@ -16,6 +16,9 @@ pip install -r requirements.txt
 
 ### 3. Create a .evn file
 Create below from respective website. Please google or use chatgpt for help.
+
 OPENAI_API_KEY
+
 GROQ_API_KEY
+
 LANCHAIN_API_KEY
