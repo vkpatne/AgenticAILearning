@@ -26,3 +26,5 @@ langchain-tavily
 langgraph
 langchain-chroma
 chromadb
+tweepy
+duckduckgo-search
