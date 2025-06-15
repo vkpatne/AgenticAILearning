@@ -28,3 +28,4 @@ langchain-chroma
 chromadb
 tweepy
 duckduckgo-search
+yfinance
