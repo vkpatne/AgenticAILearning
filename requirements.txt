@@ -29,3 +29,5 @@ chromadb
 tweepy
 duckduckgo-search
 yfinance
+googlemaps
+langchain_experimental
