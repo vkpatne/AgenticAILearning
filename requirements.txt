@@ -1,6 +1,16 @@
 pydentic
 pydantic[email]
 python-dotenv
+
+## AutoGen:
+autogen-agentchat
+autogen-core
+autogen-ext
+openai
+tiktoken
+autogen-ext[http-tool]
+
+## Langchain and LangGraph:
 langchain
 langchain-openai
 langchain-groq
@@ -12,7 +22,6 @@ arxiv
 pymupdf
 wikipedia
 
-
 langchain-community
 faiss-cpu
 langchain_google_genai
@@ -20,9 +29,10 @@ pypdf
 langchain_huggingface
 langchain_pinecone
 
+
+## langgraph:
 youtube_search
 langchain-tavily
-
 langgraph
 langchain-chroma
 chromadb
@@ -31,3 +41,4 @@ duckduckgo-search
 yfinance
 googlemaps
 langchain_experimental
+
